@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=urxvt -e /home/pa/VPNConfig/connect.sh wg-UK-1.conf
+Icon=/home/<USER>/GitRepos/flag-icons/flags/4x3/gb.svg
+Name=wg-UK-1
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
