@@ -35,6 +35,12 @@ Example:
 
         ./connect.sh wg-UK-1.conf
 
+> [!WARNING]
+The argument is only the name of the config file, not the full path. The directory is specified
+by the `VPN_CONFIG_DIR` variable in the script. To benefit from shell autocomplete, just put
+`connect.sh` in the same directory as the config files and chdir in that directory.
+
+
 Launchers
 ---------
 
